@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SMS.PrjPcb]
+   Generated File[SMS.TXT]
+   Generated File[SMS.LDP]
+   Generated File[SMS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:59:57 On 03.03.2023

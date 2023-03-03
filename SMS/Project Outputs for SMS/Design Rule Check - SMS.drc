@@ -1,0 +1,68 @@
+Protel Design System Design Rule Check
+PCB File : E:\electronics\SMS\SMS.PcbDoc
+Date     : 03.03.2023
+Time     : 19:36:06
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NRST Between Pad U1-7(65.285mm,80.25mm) on Top Layer And Track (66.021mm,80.279mm)(68.646mm,80.279mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Via (43mm,112mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (43mm,68mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (77mm,112mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (77mm,68mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :5
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.125mm) (Max=10mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:03
