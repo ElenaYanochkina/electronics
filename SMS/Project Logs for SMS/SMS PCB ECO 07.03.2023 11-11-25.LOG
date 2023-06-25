@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Member To Class: ClassName=SMS Member=Component C3 0.1uF
+Added Member To Class: ClassName=SMS Member=Component C5 0.1uF
+Added Member To Class: ClassName=SMS Member=Component C6 0.1uF
+Added Member To Class: ClassName=SMS Member=Component C7 0.1uF
+Added Member To Class: ClassName=SMS Member=Component C8 4.7uF
+Added Member To Class: ClassName=SMS Member=Component R5 2k
+Added Member To Class: ClassName=SMS Member=Component R13 3.9k
+Added Member To Class: ClassName=SMS Member=Component U1 STM32F103C6T6
